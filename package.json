@@ -1,0 +1,8 @@
+{
+  "name": "venvan-home",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "william ariza",
+  "license": "MIT",
+  "private": true
+}
